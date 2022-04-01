@@ -36,7 +36,7 @@
       
       p3 {
         font-family: FraponicCursive;
-        font-size 28px;
+        font-size 48px;
         color: lime;
       }
 </style>
